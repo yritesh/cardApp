@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Cart App</string>
+    <string name="app_name_display">Tic Tac Toe</string>
+    <string name="reset">Play again</string>
+    <string name="blank">""</string>
+    <string name="player_1_move"><b>X</b> to move</string>
+    <string name="player_2_move"><b>O</b> to move</string>
+    <string name="over">Match over - Player %1$s won, press play again </string>
+    <string name="to_display_fireworks_on_win">To display fireworks on win</string>
 </resources>
